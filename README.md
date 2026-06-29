@@ -1,2 +1,2 @@
 # BuildplateOS
-A quick web-based operating system made for the Hack Club Stardust challenge!
+A quick web-based operating system made for the Hack Club Stardance challenge!
